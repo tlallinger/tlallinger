@@ -7,17 +7,12 @@ I am a passionate software developer specializing in frontend technologies like 
 - 🌍 I work remotely, offering my services worldwide.
 - 💼 My company: [worldwidedev](https://world-wide.dev)
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-master-thomas-projects-90e5aff6.vercel.app/api?username=tlallinger&show=prs_merged,&hide=stars,issues&show_icons=true&hide_rank=true&include_all_commits=true&ring_color=00FF99&theme=dark&title_color=00FF99&bg_color=1F2937)
+
 ## 🔧 Technologies & Tools
 
 - 🖥️ Frontend: Vue.js, Nuxt, React, TypeScript
 - 🛠️ Tools: Vite, Tailwind CSS, Vuetify, Vitest
 - 🌐 API: REST, GraphQL, OpenAPI
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-master-thomas-projects-90e5aff6.vercel.app/api?username=tlallinger&show_icons=true&theme=radical)
-
-## 📫 Contact Me
-
-- 📧 [thomas@world-wide.dev](mailto:yourthomas@world-wide.dev)
-- 📧 [linkedIn](https://www.linkedin.com/in/thomas-lallinger-b3a116117/)
