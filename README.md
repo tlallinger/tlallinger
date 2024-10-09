@@ -15,9 +15,9 @@ I am a passionate software developer specializing in frontend technologies like 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlallinger&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-master-thomas-projects-90e5aff6.vercel.app/api?username=tlallinger&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
 - 📧 [thomas@world-wide.dev](mailto:yourthomas@world-wide.dev)
-- 📧 [linkedIn](https://www.linkedin.com/in/thomas-lallinger-b3a116117/\)
+- 📧 [linkedIn](https://www.linkedin.com/in/thomas-lallinger-b3a116117/)
