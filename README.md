@@ -13,6 +13,5 @@ I am a passionate software developer specializing in frontend technologies like 
 
 ## 🔧 Technologies & Tools
 
-- 🖥️ Frontend: Vue.js, Nuxt, React, TypeScript
-- 🛠️ Tools: Vite, Tailwind CSS, Vuetify, Vitest
-- 🌐 API: REST, GraphQL, OpenAPI
+- 🖥️ Frontend: TypeScript, Javascript, Vue.js, Nuxt, AstroJs, Vite, Tailwind CSS, Vuetify, Jest, Cypress
+- 🛠️ Backend: Java, Dropwizard
