@@ -4,8 +4,7 @@
 
 I am a passionate software developer specializing in frontend technologies like Typescript, Vue.js, NuxtJs, and other modern JavaScript frameworks. I love writing clean and well-structured code that is easy for both humans and machines to understand.
 
-- 🌍 I work remotely, offering my services worldwide.
-- 💼 My company: [worldwidedev](https://world-wide.dev)
+[worldwidedev](https://world-wide.dev)
 
 ## 📈 GitHub Stats
 
@@ -13,5 +12,5 @@ I am a passionate software developer specializing in frontend technologies like 
 
 ## 🔧 Technologies & Tools
 
-- 🖥️ Frontend: TypeScript, Javascript, Vue.js, Nuxt, AstroJs, Vite, Tailwind CSS, Vuetify, Jest, Cypress
+- 🖥️ Frontend: TypeScript, Javascript, Vue.js, Pinia, Vuex, Nuxt, AstroJs, Vite, Tailwind CSS, Vuetify, Vitest, Cypress
 - 🛠️ Backend: Java, Dropwizard
