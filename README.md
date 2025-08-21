@@ -12,5 +12,5 @@ I am a passionate software developer specializing in frontend technologies like 
 
 ## 🔧 Technologies & Tools
 
-- 🖥️ Frontend: TypeScript, Javascript, Vue.js, Pinia, Vuex, Nuxt, AstroJs, Vite, Tailwind CSS, Vuetify, Vitest, Cypress
-- 🛠️ Backend: Java, Dropwizard
+- 🖥️ Frontend: TypeScript, Javascript, Vue.js, AstroJs, Vite, Tailwind CSS, Vitest, Cypress
+- 🛠️ Backend: Java, Dropwizard, Supabase, NodeJs
